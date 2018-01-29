@@ -1,7 +1,7 @@
 ******************************************************************
 ========== Simple Site for Hazem INC. ==============
 
-Template3 using HTML & CSS
+Template 3
 
 ==> use HTML.
 
